@@ -22,6 +22,6 @@ and one main function:
 
 Get-UnicodeInfo is an advanced function which can be queried with Get-Help.
 
-#What if I wan to know more
+#What if I want to know more
 
 Head over to powershell.org or to my blog (http://www.happysysadm.com/2016/04/working-with-unicode-scripts-blocks-and.html) for a deep explanation of Unicode character properties.
